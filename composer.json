@@ -1,0 +1,19 @@
+{
+    "name": "adems/dapur-config-loader",
+    "description": "Configuration loader for Dapur AdeMS",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "dapur",
+        "adems",
+        "config",
+        "laminas",
+        "mezzio",
+        "middleware",
+        "psr",
+        "psr-7",
+        "psr-11",
+        "psr-15"
+    ],
+    "homepage": "https://github.com/adems/dapur-config-loader"
+}
